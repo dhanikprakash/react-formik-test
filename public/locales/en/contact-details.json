@@ -1,0 +1,32 @@
+{
+    "emailAddress": {
+        "label": "E-mail",
+        "tooltip": "Please note that this email address.",
+        "validation": {
+            "required": "Email address is mandatory",
+            "format": "Please enter a valid email address."
+        }
+    },
+    "mobileNumber": {
+        "label": "Mobile",
+        "tooltip": "Your mobile telephone number.",
+        "validation": {
+            "required": "Mobile number is mandatory",
+            "format": "Please enter a valid  number."
+        }
+    },
+    "homePhoneNumber": {
+        "label": "Home Telephone",
+        "tooltip": "The telephone number that you can be contacted on at home."
+    },
+    "workPhoneNumber": {
+        "label": "Work Telephone",
+        "tooltip": "The telephone number that you can be contacted on at home.)"
+    },
+    "phoneNumbers":{
+        "validation": {
+            "required": "Mobile number is mandatory",
+            "format": "Please enter a valid  number."
+        }
+    }
+}

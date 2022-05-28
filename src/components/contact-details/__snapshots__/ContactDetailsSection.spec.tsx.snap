@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactDetailsSection should render correctly 1`] = `
+Array [
+  <h3>
+    Contact Details
+  </h3>,
+  <form
+    action="#"
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <div>
+      Emailaddress.label
+      <input
+        name="emailAddress"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Email"
+        title="emailAddress.tooltip"
+        type="text"
+        value="test@test.com"
+      />
+    </div>
+    <div>
+      mobileNumber.label
+      <input
+        name="mobileNumber"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="MobileNumber"
+        title="mobileNumber.tooltip"
+        type="text"
+        value="1234567891"
+      />
+    </div>
+    <div>
+      homePhoneNumber.label
+      <input
+        name="homePhoneNumber"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Home Phone Number"
+        title="homePhoneNumber.tooltip"
+        type="text"
+        value="1234567891"
+      />
+    </div>
+    <div>
+      workPhoneNumber.label
+      <input
+        name="workPhoneNumber"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="workPhoneNumber"
+        title="workPhoneNumber.tooltip"
+        type="text"
+        value="1234567891"
+      />
+    </div>
+    <div>
+      <br />
+      <button
+        className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        Update
+      </button>
+    </div>
+  </form>,
+]
+`;
